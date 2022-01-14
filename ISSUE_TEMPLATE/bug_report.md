@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**If you are reporting a crash to desktop, please attach your NET Script Framework crash log. This can be found in `[LS Install folder]\mods\Files Generated during playsessions launched with SKSE\NetScriptFramework\Crash`
+**If you are reporting a crash to desktop, please attach your NET Script Framework crash log. This can be found in `[Masterstroke Install folder]\mods\Files Generated during playsessions launched with SKSE\NetScriptFramework\Crash`
 
 If possible, please also attach a copy of your most recent save before the issue occurred.**
 
 Please check back on your bug request periodically. I will ask for more details sometimes and if they are not provided I will eventually close the bug report.
 
-**LS Version**
+**Masterstroke Version**
 Put the version of the list you are on here.
 
 **Describe the bug**
